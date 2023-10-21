@@ -14,7 +14,8 @@ Steps :
   8. After the installation is complete, a " Setup was successful " message displays.
   9. Go to Start and enter cmd in the search bar. Click Command Prompt. (for verify Python)
   10. Enter "python --version " command in the command prompt
-      Output :
+      , Output :
+      
       ![image](https://github.com/ArhamSuryaBalad/pertemuan1-basis-data/assets/148637316/f25d55d7-7a04-491e-96d8-0782d9d21c9c)
 
   12. You’ve installed Python on your Windows computer and are ready to start learning and programming in Python.
