@@ -3,7 +3,7 @@ How to install PostgreSQL on Windows
 
 Steps :
 
- 1. Download PostgreSQL pada halaman berikut [DOWNLOAD] https://www.postgresql.org/download/
+ 1. Download PostgreSQL pada halaman berikut [postgresql.org] (https://www.postgresql.org/download/)
  1. Pertama, Klik "Next" untuk melanjutkan
 
     ![image](https://github.com/ArhamSuryaBalad/pertemuan1-basis-data/assets/148637316/2f017f48-89e4-40fc-b5db-37230f414efa)
